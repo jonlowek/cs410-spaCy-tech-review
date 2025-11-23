@@ -2,6 +2,9 @@
 
 This repo contains a ready-to-run script to reproduce the demo and lightweight evaluation for the SpaCy Tech Review.
 
+Name: Jonathon Eng Kiat Low
+Netid: jelow2
+
 ## Contents
 - `examples` contain the examples used in Tokenization, POS Tagging and NER as mentioned in the report.
 - `texts` folder contains the texts from the [Plain text Wikipedia (SimpleEnglish) dataset available on kaggle](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish). `AllCombined_short` contains texts 600 - 1200 chars long and `AllCombined_medium.txt` contains texts 1500-2400 chars long.

@@ -11,6 +11,7 @@ Netid: jelow2
 - `texts` folder contains the texts from the [Plain text Wikipedia (SimpleEnglish) dataset available on kaggle](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish). `AllCombined_short` contains texts 600 - 1200 chars long and `AllCombined_medium.txt` contains texts 1500-2400 chars long.
 - `results_short` contains the chosen 4 sampled short texts, along with their generated results.
 - `results_medium` contains the chosen 4 sampled medium texts, along with their generated results.
+- `make_charts.py`, `ner_charts.py` and `tokens_sec_charts.py` are chart plotting helper scripts utilizing output results of the main template.
 
 ## What it does
 - Loads a small set of texts (from a CSV column, a plain text file, or fallback samples).

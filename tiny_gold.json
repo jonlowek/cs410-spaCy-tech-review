@@ -1,0 +1,116 @@
+{
+  "samples": [
+    {
+      "text": "In the western Atlantic, it is found from Massachusetts to Uruguay, and in the Gulf of Mexico, the Bahamas, and the Caribbean Sea.",
+      "entities": [
+        [15, 23, "LOC"],
+        [42, 55, "GPE"],
+        [59, 66, "GPE"],
+        [75, 93, "LOC"],
+        [99, 106, "GPE"],
+        [112, 129, "LOC"]
+      ]
+    },
+    {
+      "text": "In the eastern Atlantic, it is found in Iceland and possibly the U.K (due to the warm Gulf Stream), Morocco, Canary Islands, and from Senegal to Ivory Coast.",
+      "entities": [
+        [15, 23, "LOC"],
+        [40, 47, "GPE"],
+        [65, 68, "GPE"],
+        [86, 97, "LOC"],
+        [100, 107, "GPE"],
+        [109, 123, "GPE"],
+        [134, 141, "GPE"],
+        [145, 156, "GPE"]
+      ]
+    },
+    {
+      "text": "In the Indian Ocean, it is found in Pakistan, India, Sri Lanka, Maldives, Thailand, Vietnam, and from the Red Sea to South Africa.",
+      "entities": [
+        [3, 19, "LOC"],
+        [36, 44, "GPE"],
+        [46, 51, "GPE"],
+        [53, 62, "GPE"],
+        [64, 72, "GPE"],
+        [74, 82, "GPE"],
+        [84, 91, "GPE"],
+        [102, 113, "LOC"],
+        [117, 129, "GPE"]
+      ]
+    },
+    {
+      "text": "It is based in Chicago, Illinois, USA.",
+      "entities": [
+        [15, 22, "GPE"],
+        [24, 32, "GPE"],
+        [34, 37, "GPE"]
+      ]
+    },
+    {
+      "text": "Today, the company is based in Chicago, but from its first days in 1956 until 1995, it was based in New York City, USA.",
+      "entities": [
+        [0, 5, "DATE"],
+        [31, 38, "GPE"],
+        [49, 63, "DATE"],
+        [67, 71, "DATE"],
+        [78, 82, "DATE"],
+        [100, 113, "GPE"],
+        [115, 118, "GPE"]
+      ]
+    },
+    {
+      "text": "Many prominent choreographers have worked with the Joffrey, for example, Paul Taylor, Twyla Tharp, George Balanchine, and Robert Joffrey.",
+      "entities": [
+        [47, 58, "ORG"],
+        [73, 84, "PERSON"],
+        [86, 97, "PERSON"],
+        [99, 116, "PERSON"],
+        [122, 136, "PERSON"]
+      ]
+    },
+    {
+      "text": "Its dances are held at the Auditorium Theatre, but for 2020 the company had plans to move and begin holding its dances in the Civic Opera House (Chicago) as part of a seven-year rental agreement.",
+      "entities": [
+        [23, 45, "FAC"],
+        [55, 59, "DATE"],
+        [126, 143, "ORG"],
+        [145, 152, "GPE"],
+        [167, 177, "DATE"]
+      ]
+    },
+    {
+      "text": "But there are also places, such as French Island (Victoria), with too many koalas that eat too much.",
+      "entities": [
+        [35, 48, "LOC"],
+        [50, 58, "GPE"]
+      ]
+    },
+    {
+      "text": "The study, by the Australian Koala Foundation, estimates that there are only about 50,000 koalas left.",
+      "entities": [
+        [14, 45, "ORG"],
+        [72, 89, "CARDINAL"]
+      ]
+    },
+    {
+      "text": "It is off the southern coast of Japan.",
+      "entities": [
+        [32, 37, "GPE"]
+      ]
+    },
+    {
+      "text": "It was discovered by local divers in the 1980s.",
+      "entities": [
+        [37, 46, "DATE"]
+      ]
+    },
+    {
+      "text": "Masaaki Kimura, a professor of earthquakes in the University of the Ryukyus, and some newspaper people believe it is a man-made structure engraved or built 2,000 to 3,000 years ago.",
+      "entities": [
+        [0, 14, "PERSON"],
+        [46, 75, "ORG"],
+        [156, 180, "DATE"]
+      ]
+    }
+  ]
+}
